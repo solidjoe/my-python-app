@@ -52,7 +52,7 @@ if st.session_state.step < 24:
     if current_block == "Projection":
         label = f"क्या आप निश्चित हैं कि {item['p']}?"
     else:
-        label = f"क्या आप जानना चाह रहे हैं कि {item['p']}?"
+        label = f"क्या यहाँ मुख्य बात यह है कि {item['p']}?"
 
     # 0-100 Slider
     rating = st.slider(label, 0, 100, 50)
@@ -71,4 +71,5 @@ if st.session_state.step < 24:
         except Exception as e:
             st.error(f"Error saving data: {e}")
 else:
+
     st.success("धन्यवाद! आपका डेटा सुरक्षित रूप से जमा हो गया है। (Thank you! Your data has been recorded.)")
