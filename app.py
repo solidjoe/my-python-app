@@ -50,8 +50,8 @@ if st.session_state.step < 24:
 
     # Display the judgment question based on the block
    if current_block == "Projection":
-        label = f"क्या आप निश्चित हैं कि {item['p']}?"
-    else:
+       label = f"क्या आप निश्चित हैं कि {item['p']}?"
+   else:
         label = f"क्या यहाँ मुख्य बात यह है कि {item['p']}?"
 
     # 0-100 Slider
@@ -73,6 +73,7 @@ if st.session_state.step < 24:
 else:
 
     st.success("धन्यवाद! आपका डेटा सुरक्षित रूप से जमा हो गया है। (Thank you! Your data has been recorded.)")
+
 
 
 
