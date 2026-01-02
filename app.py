@@ -56,7 +56,7 @@ if st.session_state.step < 24:
 
     # 0-100 Slider
     rating = st.slider(label, 0, 100, 50)
-
+    
     if st.button("अगला (Next)"):
         try:
             client = get_gspread_client()
@@ -73,6 +73,7 @@ if st.session_state.step < 24:
 else:
 
     st.success("धन्यवाद! आपका डेटा सुरक्षित रूप से जमा हो गया है। (Thank you! Your data has been recorded.)")
+
 
 
 
