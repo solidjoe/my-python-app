@@ -42,8 +42,17 @@ st.title("Hindi Linguistics Pilot Study")
 
 if st.session_state.step < 24:
     current_idx = st.session_state.step % 12
-    current_block = st.session_state.blocks[0] if st.session_state.step < 12 else st.session_state.blocks[1]
+    # Determine block
+    if st.session_state.step < 12:
+        current_block = st.session_state.blocks[0]
+    else:
+        current_block = st.session_state.blocks[1]
+    
     item = st.session_state.stimuli[current_idx]
+
+    # Progress bar
+    st.progress((st.session_state.step) / 24)
+    st.write(f"Question {st.session_state.step + 1} of 24")
 
     # Display the sentence
     st.info(f"वाक्य: {item['sentence']}")
@@ -56,7 +65,7 @@ if st.session_state.step < 24:
 
     # 0-100 Slider
     rating = st.slider(label, 0, 100, 50)
-    
+
     if st.button("अगला (Next)"):
         try:
             client = get_gspread_client()
@@ -71,7 +80,6 @@ if st.session_state.step < 24:
         except Exception as e:
             st.error(f"Error saving data: {e}")
 else:
-
     st.success("धन्यवाद! आपका डेटा सुरक्षित रूप से जमा हो गया है। (Thank you! Your data has been recorded.)")
 
 
