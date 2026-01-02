@@ -5,7 +5,7 @@ from google.oauth2.service_account import Credentials
 import random
 import datetime
 
-# 1. Database Connection Logic
+# 1. Database Connection
 def get_gspread_client():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     creds = Credentials.from_service_account_info(st.secrets["gcp_service_account"], scopes=scope)
@@ -81,6 +81,7 @@ if st.session_state.step < 24:
             st.error(f"Error saving data: {e}")
 else:
     st.success("धन्यवाद! आपका डेटा सुरक्षित रूप से जमा हो गया है। (Thank you! Your data has been recorded.)")
+
 
 
 
