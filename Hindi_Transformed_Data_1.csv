@@ -1,0 +1,553 @@
+﻿Timestamp,Participant_ID,Verb,Verb_Type,Task_Block,Rating,Rating_Normalized,Rating_Beta
+36:46.7,2580,याद होना,factive,At-issueness,31,0.31,0.310344203
+36:54.9,2580,देखना,factive,At-issueness,27,0.27,0.270416667
+36:59.0,2580,जानना,factive,At-issueness,30,0.3,0.300362319
+37:02.4,2580,पता चलना,factive,At-issueness,21,0.21,0.210525362
+38:00.0,2580,बताना,non-factive,At-issueness,36,0.36,0.360253623
+38:04.2,2580,मानना,non-factive,At-issueness,35,0.35,0.350271739
+38:08.5,2580,सुनना,factive,At-issueness,32,0.32,0.320326087
+38:12.4,2580,सोचना,non-factive,At-issueness,26,0.26,0.260434783
+38:16.2,2580,समझना,factive,At-issueness,35,0.35,0.350271739
+38:20.0,2580,लगना,non-factive,At-issueness,33,0.33,0.330307971
+38:23.5,2580,कहना,non-factive,At-issueness,77,0.77,0.76951087
+38:27.0,2580,पूछना,non-factive,At-issueness,34,0.34,0.340289855
+38:31.3,2580,याद होना,factive,Projection,75,0.75,0.749547101
+38:35.2,2580,देखना,factive,Projection,50,0.5,0.5
+38:39.8,2580,जानना,factive,Projection,71,0.71,0.709619565
+38:44.0,2580,पता चलना,factive,Projection,71,0.71,0.709619565
+38:48.7,2580,बताना,non-factive,Projection,66,0.66,0.659710145
+38:52.5,2580,मानना,non-factive,Projection,65,0.65,0.649728261
+38:56.2,2580,सुनना,factive,Projection,83,0.83,0.829402174
+39:00.7,2580,सोचना,non-factive,Projection,75,0.75,0.749547101
+39:04.3,2580,समझना,factive,Projection,73,0.73,0.729583333
+39:10.2,2580,लगना,non-factive,Projection,74,0.74,0.739565217
+39:13.9,2580,कहना,non-factive,Projection,76,0.76,0.759528986
+39:18.4,2580,पूछना,non-factive,Projection,85,0.85,0.849365942
+31:42.1,6853,बताना,non-factive,At-issueness,20,0.2,0.200543478
+31:57.1,6853,जानना,factive,At-issueness,20,0.2,0.200543478
+32:24.3,6853,पूछना,non-factive,At-issueness,20,0.2,0.200543478
+32:49.8,6853,सोचना,non-factive,At-issueness,50,0.5,0.5
+33:18.1,6853,पता चलना,factive,At-issueness,80,0.8,0.799456522
+33:35.5,6853,देखना,factive,At-issueness,20,0.2,0.200543478
+33:46.4,6853,सुनना,factive,At-issueness,20,0.2,0.200543478
+35:12.3,6853,लगना,non-factive,At-issueness,20,0.2,0.200543478
+35:34.2,6853,समझना,factive,At-issueness,20,0.2,0.200543478
+36:02.6,6853,मानना,non-factive,At-issueness,20,0.2,0.200543478
+36:14.4,6853,याद होना,factive,At-issueness,20,0.2,0.200543478
+36:39.0,6853,कहना,non-factive,At-issueness,80,0.8,0.799456522
+37:16.6,6853,बताना,non-factive,Projection,10,0.1,0.100724638
+37:32.3,6853,जानना,factive,Projection,90,0.9,0.899275362
+37:48.7,6853,पूछना,non-factive,Projection,10,0.1,0.100724638
+38:03.6,6853,सोचना,non-factive,Projection,10,0.1,0.100724638
+38:14.8,6853,पता चलना,factive,Projection,90,0.9,0.899275362
+38:43.6,6853,देखना,factive,Projection,90,0.9,0.899275362
+39:08.0,6853,सुनना,factive,Projection,10,0.1,0.100724638
+39:26.6,6853,लगना,non-factive,Projection,10,0.1,0.100724638
+40:28.0,6853,समझना,factive,Projection,90,0.9,0.899275362
+42:17.7,6853,मानना,non-factive,Projection,10,0.1,0.100724638
+42:34.7,6853,याद होना,factive,Projection,90,0.9,0.899275362
+43:13.9,6853,कहना,non-factive,Projection,10,0.1,0.100724638
+14:21.5,1432,देखना,factive,At-issueness,0,0,0.000905797
+14:39.3,1432,लगना,non-factive,At-issueness,100,1,0.999094203
+14:53.5,1432,मानना,non-factive,At-issueness,100,1,0.999094203
+15:03.3,1432,कहना,non-factive,At-issueness,100,1,0.999094203
+15:18.0,1432,बताना,non-factive,At-issueness,100,1,0.999094203
+15:30.4,1432,याद होना,factive,At-issueness,10,0.1,0.100724638
+15:39.9,1432,समझना,factive,At-issueness,50,0.5,0.5
+15:50.3,1432,पता चलना,factive,At-issueness,100,1,0.999094203
+16:27.7,1432,सुनना,factive,At-issueness,10,0.1,0.100724638
+16:38.5,1432,सोचना,non-factive,At-issueness,100,1,0.999094203
+16:46.8,1432,पूछना,non-factive,At-issueness,0,0,0.000905797
+16:59.1,1432,जानना,factive,At-issueness,10,0.1,0.100724638
+17:16.0,1432,देखना,factive,Projection,0,0,0.000905797
+17:26.6,1432,लगना,non-factive,Projection,0,0,0.000905797
+17:42.2,1432,मानना,non-factive,Projection,0,0,0.000905797
+17:49.8,1432,कहना,non-factive,Projection,0,0,0.000905797
+18:02.1,1432,बताना,non-factive,Projection,0,0,0.000905797
+18:15.3,1432,याद होना,factive,Projection,100,1,0.999094203
+18:23.3,1432,समझना,factive,Projection,0,0,0.000905797
+18:33.2,1432,पता चलना,factive,Projection,100,1,0.999094203
+18:43.8,1432,सुनना,factive,Projection,100,1,0.999094203
+18:52.8,1432,सोचना,non-factive,Projection,100,1,0.999094203
+19:06.5,1432,पूछना,non-factive,Projection,49,0.49,0.490018116
+19:15.2,1432,जानना,factive,Projection,100,1,0.999094203
+30:27.6,3099,देखना,factive,Projection,100,1,0.999094203
+30:36.5,3099,समझना,factive,Projection,100,1,0.999094203
+30:50.6,3099,पता चलना,factive,Projection,81,0.81,0.809438406
+30:56.3,3099,जानना,factive,Projection,100,1,0.999094203
+31:02.4,3099,बताना,non-factive,Projection,100,1,0.999094203
+31:08.7,3099,याद होना,factive,Projection,100,1,0.999094203
+31:13.5,3099,पूछना,non-factive,Projection,100,1,0.999094203
+31:31.2,3099,सुनना,factive,Projection,100,1,0.999094203
+31:44.9,3099,मानना,non-factive,Projection,50,0.5,0.5
+31:53.0,3099,लगना,non-factive,Projection,100,1,0.999094203
+32:11.1,3099,सोचना,non-factive,Projection,100,1,0.999094203
+32:17.6,3099,कहना,non-factive,Projection,100,1,0.999094203
+32:35.7,3099,देखना,factive,At-issueness,100,1,0.999094203
+32:52.6,3099,समझना,factive,At-issueness,50,0.5,0.5
+33:03.7,3099,पता चलना,factive,At-issueness,100,1,0.999094203
+33:12.3,3099,जानना,factive,At-issueness,100,1,0.999094203
+33:19.3,3099,बताना,non-factive,At-issueness,100,1,0.999094203
+33:27.2,3099,याद होना,factive,At-issueness,100,1,0.999094203
+33:38.6,3099,पूछना,non-factive,At-issueness,100,1,0.999094203
+33:45.7,3099,सुनना,factive,At-issueness,100,1,0.999094203
+33:57.0,3099,मानना,non-factive,At-issueness,100,1,0.999094203
+34:03.2,3099,लगना,non-factive,At-issueness,100,1,0.999094203
+34:12.2,3099,सोचना,non-factive,At-issueness,100,1,0.999094203
+34:23.5,3099,कहना,non-factive,At-issueness,100,1,0.999094203
+37:10.4,7866,पूछना,non-factive,Projection,0,0,0.000905797
+37:22.9,7866,पता चलना,factive,Projection,100,1,0.999094203
+37:32.2,7866,देखना,factive,Projection,100,1,0.999094203
+37:40.7,7866,कहना,non-factive,Projection,100,1,0.999094203
+37:53.4,7866,सुनना,factive,Projection,100,1,0.999094203
+38:01.5,7866,समझना,factive,Projection,0,0,0.000905797
+38:09.3,7866,जानना,factive,Projection,100,1,0.999094203
+38:23.3,7866,लगना,non-factive,Projection,0,0,0.000905797
+38:31.0,7866,मानना,non-factive,Projection,0,0,0.000905797
+38:40.7,7866,बताना,non-factive,Projection,100,1,0.999094203
+38:47.5,7866,सोचना,non-factive,Projection,100,1,0.999094203
+38:57.4,7866,याद होना,factive,Projection,100,1,0.999094203
+39:05.1,7866,पूछना,non-factive,At-issueness,100,1,0.999094203
+39:10.5,7866,पता चलना,factive,At-issueness,100,1,0.999094203
+39:16.1,7866,देखना,factive,At-issueness,100,1,0.999094203
+39:21.1,7866,कहना,non-factive,At-issueness,100,1,0.999094203
+39:29.8,7866,सुनना,factive,At-issueness,100,1,0.999094203
+39:37.5,7866,समझना,factive,At-issueness,0,0,0.000905797
+39:43.4,7866,जानना,factive,At-issueness,100,1,0.999094203
+39:49.6,7866,लगना,non-factive,At-issueness,0,0,0.000905797
+39:56.6,7866,मानना,non-factive,At-issueness,100,1,0.999094203
+40:01.9,7866,बताना,non-factive,At-issueness,100,1,0.999094203
+40:08.6,7866,सोचना,non-factive,At-issueness,100,1,0.999094203
+40:14.2,7866,याद होना,factive,At-issueness,0,0,0.000905797
+50:10.0,2143,याद होना,factive,At-issueness,100,1,0.999094203
+50:19.2,2143,बताना,non-factive,At-issueness,100,1,0.999094203
+50:31.8,2143,लगना,non-factive,At-issueness,100,1,0.999094203
+50:42.2,2143,समझना,factive,At-issueness,100,1,0.999094203
+50:48.1,2143,पूछना,non-factive,At-issueness,100,1,0.999094203
+51:00.0,2143,सोचना,non-factive,At-issueness,100,1,0.999094203
+51:07.8,2143,देखना,factive,At-issueness,100,1,0.999094203
+51:17.8,2143,जानना,factive,At-issueness,100,1,0.999094203
+51:30.6,2143,कहना,non-factive,At-issueness,100,1,0.999094203
+51:39.5,2143,सुनना,factive,At-issueness,100,1,0.999094203
+52:14.9,2143,मानना,non-factive,At-issueness,100,1,0.999094203
+52:21.8,2143,पता चलना,factive,At-issueness,100,1,0.999094203
+52:45.9,2143,याद होना,factive,Projection,50,0.5,0.5
+52:58.3,2143,बताना,non-factive,Projection,50,0.5,0.5
+53:05.2,2143,लगना,non-factive,Projection,50,0.5,0.5
+53:12.9,2143,समझना,factive,Projection,50,0.5,0.5
+53:19.5,2143,पूछना,non-factive,Projection,50,0.5,0.5
+53:26.0,2143,सोचना,non-factive,Projection,50,0.5,0.5
+53:34.1,2143,देखना,factive,Projection,50,0.5,0.5
+53:55.1,2143,जानना,factive,Projection,50,0.5,0.5
+54:03.6,2143,कहना,non-factive,Projection,50,0.5,0.5
+54:10.5,2143,सुनना,factive,Projection,50,0.5,0.5
+54:16.5,2143,मानना,non-factive,Projection,50,0.5,0.5
+54:23.6,2143,पता चलना,factive,Projection,50,0.5,0.5
+26:37.7,1090,कहना,non-factive,Projection,50,0.5,0.5
+26:50.4,1090,सुनना,factive,Projection,50,0.5,0.5
+27:02.0,1090,सोचना,non-factive,Projection,50,0.5,0.5
+27:09.4,1090,जानना,factive,Projection,100,1,0.999094203
+27:15.8,1090,पता चलना,factive,Projection,100,1,0.999094203
+27:29.6,1090,समझना,factive,Projection,10,0.1,0.100724638
+27:39.1,1090,लगना,non-factive,Projection,25,0.25,0.250452899
+27:49.0,1090,बताना,non-factive,Projection,100,1,0.999094203
+27:57.9,1090,मानना,non-factive,Projection,100,1,0.999094203
+28:11.8,1090,पूछना,non-factive,Projection,75,0.75,0.749547101
+28:17.5,1090,देखना,factive,Projection,50,0.5,0.5
+28:23.0,1090,याद होना,factive,Projection,100,1,0.999094203
+28:46.7,1090,कहना,non-factive,At-issueness,25,0.25,0.250452899
+28:57.2,1090,सुनना,factive,At-issueness,0,0,0.000905797
+29:02.8,1090,सोचना,non-factive,At-issueness,0,0,0.000905797
+29:09.2,1090,जानना,factive,At-issueness,0,0,0.000905797
+29:13.7,1090,पता चलना,factive,At-issueness,0,0,0.000905797
+29:17.3,1090,समझना,factive,At-issueness,0,0,0.000905797
+29:21.3,1090,लगना,non-factive,At-issueness,0,0,0.000905797
+29:27.0,1090,बताना,non-factive,At-issueness,0,0,0.000905797
+29:33.7,1090,मानना,non-factive,At-issueness,0,0,0.000905797
+29:40.0,1090,पूछना,non-factive,At-issueness,0,0,0.000905797
+29:43.6,1090,देखना,factive,At-issueness,0,0,0.000905797
+29:47.5,1090,याद होना,factive,At-issueness,0,0,0.000905797
+31:27.5,9737,समझना,factive,At-issueness,0,0,0.000905797
+32:17.6,9737,कहना,non-factive,At-issueness,100,1,0.999094203
+32:29.8,9737,पता चलना,factive,At-issueness,0,0,0.000905797
+32:41.2,9737,पूछना,non-factive,At-issueness,0,0,0.000905797
+32:49.7,9737,देखना,factive,At-issueness,0,0,0.000905797
+33:06.9,9737,याद होना,factive,At-issueness,50,0.5,0.5
+33:13.7,9737,लगना,non-factive,At-issueness,100,1,0.999094203
+33:25.7,9737,मानना,non-factive,At-issueness,0,0,0.000905797
+33:38.3,9737,सोचना,non-factive,At-issueness,0,0,0.000905797
+33:51.8,9737,सुनना,factive,At-issueness,76,0.76,0.759528986
+33:53.3,9737,बताना,non-factive,At-issueness,50,0.5,0.5
+34:02.5,9737,जानना,factive,At-issueness,0,0,0.000905797
+34:09.5,9737,समझना,factive,Projection,0,0,0.000905797
+34:20.4,9737,कहना,non-factive,Projection,100,1,0.999094203
+34:27.7,9737,पता चलना,factive,Projection,0,0,0.000905797
+34:33.0,9737,पूछना,non-factive,Projection,0,0,0.000905797
+34:42.6,9737,देखना,factive,Projection,69,0.69,0.689655797
+34:53.5,9737,याद होना,factive,Projection,0,0,0.000905797
+34:59.7,9737,लगना,non-factive,Projection,100,1,0.999094203
+35:09.4,9737,मानना,non-factive,Projection,52,0.52,0.519963768
+35:15.5,9737,सोचना,non-factive,Projection,25,0.25,0.250452899
+35:23.2,9737,सुनना,factive,Projection,17,0.17,0.170597826
+35:29.3,9737,बताना,non-factive,Projection,100,1,0.999094203
+35:38.9,9737,जानना,factive,Projection,18,0.18,0.18057971
+15:48.6,3519,जानना,factive,Projection,19,0.19,0.190561594
+16:32.5,3519,पता चलना,factive,Projection,88,0.88,0.879311594
+16:44.9,3519,समझना,factive,Projection,31,0.31,0.310344203
+17:04.0,3519,बताना,non-factive,Projection,74,0.74,0.739565217
+17:14.1,3519,लगना,non-factive,Projection,29,0.29,0.290380435
+17:24.4,3519,देखना,factive,Projection,33,0.33,0.330307971
+17:39.6,3519,सोचना,non-factive,Projection,14,0.14,0.140652174
+17:45.9,3519,पूछना,non-factive,Projection,68,0.68,0.679673913
+17:52.7,3519,सुनना,factive,Projection,15,0.15,0.150634058
+18:04.1,3519,मानना,non-factive,Projection,78,0.78,0.779492754
+18:17.3,3519,कहना,non-factive,Projection,74,0.74,0.739565217
+18:28.1,3519,याद होना,factive,Projection,10,0.1,0.100724638
+18:48.9,3519,जानना,factive,At-issueness,20,0.2,0.200543478
+18:59.1,3519,पता चलना,factive,At-issueness,65,0.65,0.649728261
+19:12.4,3519,समझना,factive,At-issueness,62,0.62,0.619782609
+19:14.6,3519,बताना,non-factive,At-issueness,50,0.5,0.5
+19:25.6,3519,लगना,non-factive,At-issueness,67,0.67,0.669692029
+19:36.3,3519,देखना,factive,At-issueness,61,0.61,0.609800725
+19:42.6,3519,सोचना,non-factive,At-issueness,24,0.24,0.240471014
+19:52.8,3519,पूछना,non-factive,At-issueness,20,0.2,0.200543478
+20:01.9,3519,सुनना,factive,At-issueness,20,0.2,0.200543478
+20:12.8,3519,मानना,non-factive,At-issueness,65,0.65,0.649728261
+20:26.0,3519,कहना,non-factive,At-issueness,66,0.66,0.659710145
+20:34.0,3519,याद होना,factive,At-issueness,90,0.9,0.899275362
+18:21.5,2329,याद होना,factive,Projection,50,0.5,0.5
+18:44.5,2329,मानना,non-factive,Projection,100,1,0.999094203
+19:10.4,2329,समझना,factive,Projection,100,1,0.999094203
+19:35.3,2329,देखना,factive,Projection,50,0.5,0.5
+20:05.2,2329,बताना,non-factive,Projection,100,1,0.999094203
+20:35.6,2329,कहना,non-factive,Projection,100,1,0.999094203
+20:43.8,2329,पता चलना,factive,Projection,100,1,0.999094203
+20:50.0,2329,लगना,non-factive,Projection,100,1,0.999094203
+21:09.0,2329,सोचना,non-factive,Projection,50,0.5,0.5
+21:14.0,2329,सुनना,factive,Projection,100,1,0.999094203
+21:22.1,2329,जानना,factive,Projection,100,1,0.999094203
+21:29.7,2329,पूछना,non-factive,Projection,100,1,0.999094203
+21:47.6,2329,याद होना,factive,At-issueness,100,1,0.999094203
+21:57.9,2329,मानना,non-factive,At-issueness,50,0.5,0.5
+22:03.5,2329,समझना,factive,At-issueness,50,0.5,0.5
+22:12.5,2329,देखना,factive,At-issueness,50,0.5,0.5
+22:24.1,2329,बताना,non-factive,At-issueness,100,1,0.999094203
+22:30.1,2329,कहना,non-factive,At-issueness,100,1,0.999094203
+22:36.4,2329,पता चलना,factive,At-issueness,100,1,0.999094203
+22:45.2,2329,लगना,non-factive,At-issueness,50,0.5,0.5
+22:54.1,2329,सोचना,non-factive,At-issueness,50,0.5,0.5
+23:01.8,2329,सुनना,factive,At-issueness,100,1,0.999094203
+23:11.6,2329,जानना,factive,At-issueness,100,1,0.999094203
+23:19.8,2329,पूछना,non-factive,At-issueness,100,1,0.999094203
+32:05.6,5074,पूछना,non-factive,At-issueness,100,1,0.999094203
+32:22.8,5074,देखना,factive,At-issueness,76,0.76,0.759528986
+32:42.4,5074,कहना,non-factive,At-issueness,99,0.99,0.989112319
+32:43.9,5074,सुनना,factive,At-issueness,50,0.5,0.5
+32:57.8,5074,पता चलना,factive,At-issueness,34,0.34,0.340289855
+33:08.1,5074,मानना,non-factive,At-issueness,35,0.35,0.350271739
+33:20.9,5074,सोचना,non-factive,At-issueness,74,0.74,0.739565217
+33:31.1,5074,लगना,non-factive,At-issueness,50,0.5,0.5
+33:39.9,5074,याद होना,factive,At-issueness,27,0.27,0.270416667
+33:50.8,5074,समझना,factive,At-issueness,72,0.72,0.719601449
+34:35.6,5074,बताना,non-factive,At-issueness,50,0.5,0.5
+34:45.7,5074,जानना,factive,At-issueness,67,0.67,0.669692029
+34:55.0,5074,पूछना,non-factive,Projection,21,0.21,0.210525362
+35:05.1,5074,देखना,factive,Projection,29,0.29,0.290380435
+35:14.4,5074,कहना,non-factive,Projection,13,0.13,0.13067029
+35:28.7,5074,सुनना,factive,Projection,25,0.25,0.250452899
+36:35.5,5074,पता चलना,factive,Projection,88,0.88,0.879311594
+36:45.5,5074,मानना,non-factive,Projection,21,0.21,0.210525362
+36:51.7,5074,सोचना,non-factive,Projection,17,0.17,0.170597826
+36:58.0,5074,लगना,non-factive,Projection,82,0.82,0.81942029
+37:28.8,5074,याद होना,factive,Projection,13,0.13,0.13067029
+37:33.5,5074,समझना,factive,Projection,18,0.18,0.18057971
+37:41.2,5074,बताना,non-factive,Projection,78,0.78,0.779492754
+37:51.2,5074,जानना,factive,Projection,81,0.81,0.809438406
+43:57.4,6475,पता चलना,factive,At-issueness,10,0.1,0.100724638
+44:01.7,6475,बताना,non-factive,At-issueness,10,0.1,0.100724638
+44:05.3,6475,देखना,factive,At-issueness,10,0.1,0.100724638
+44:09.5,6475,जानना,factive,At-issueness,10,0.1,0.100724638
+44:14.5,6475,सोचना,non-factive,At-issueness,10,0.1,0.100724638
+44:19.7,6475,याद होना,factive,At-issueness,10,0.1,0.100724638
+44:25.2,6475,मानना,non-factive,At-issueness,10,0.1,0.100724638
+44:30.8,6475,सुनना,factive,At-issueness,10,0.1,0.100724638
+44:36.5,6475,लगना,non-factive,At-issueness,10,0.1,0.100724638
+44:40.4,6475,समझना,factive,At-issueness,10,0.1,0.100724638
+44:44.9,6475,पूछना,non-factive,At-issueness,10,0.1,0.100724638
+44:48.7,6475,कहना,non-factive,At-issueness,10,0.1,0.100724638
+44:58.2,6475,पता चलना,factive,Projection,100,1,0.999094203
+45:03.4,6475,बताना,non-factive,Projection,100,1,0.999094203
+45:06.5,6475,देखना,factive,Projection,100,1,0.999094203
+45:09.5,6475,जानना,factive,Projection,100,1,0.999094203
+45:12.6,6475,सोचना,non-factive,Projection,100,1,0.999094203
+45:15.4,6475,याद होना,factive,Projection,100,1,0.999094203
+45:18.2,6475,मानना,non-factive,Projection,100,1,0.999094203
+45:21.2,6475,सुनना,factive,Projection,100,1,0.999094203
+45:24.1,6475,लगना,non-factive,Projection,100,1,0.999094203
+45:27.8,6475,समझना,factive,Projection,100,1,0.999094203
+45:30.5,6475,पूछना,non-factive,Projection,100,1,0.999094203
+45:35.2,6475,कहना,non-factive,Projection,100,1,0.999094203
+18:00.1,4140,लगना,non-factive,At-issueness,21,0.21,0.210525362
+18:05.7,4140,कहना,non-factive,At-issueness,21,0.21,0.210525362
+18:10.9,4140,सोचना,non-factive,At-issueness,10,0.1,0.100724638
+18:21.5,4140,देखना,factive,At-issueness,19,0.19,0.190561594
+19:25.3,4140,जानना,factive,At-issueness,20,0.2,0.200543478
+19:30.9,4140,याद होना,factive,At-issueness,25,0.25,0.250452899
+19:36.0,4140,मानना,non-factive,At-issueness,15,0.15,0.150634058
+19:40.3,4140,बताना,non-factive,At-issueness,20,0.2,0.200543478
+19:48.4,4140,पूछना,non-factive,At-issueness,17,0.17,0.170597826
+19:53.7,4140,पता चलना,factive,At-issueness,25,0.25,0.250452899
+20:45.2,4140,समझना,factive,At-issueness,21,0.21,0.210525362
+20:51.7,4140,सुनना,factive,At-issueness,19,0.19,0.190561594
+21:14.2,4140,लगना,non-factive,Projection,28,0.28,0.280398551
+21:22.9,4140,कहना,non-factive,Projection,67,0.67,0.669692029
+22:00.6,4140,सोचना,non-factive,Projection,20,0.2,0.200543478
+22:08.0,4140,देखना,factive,Projection,77,0.77,0.76951087
+22:12.4,4140,जानना,factive,Projection,76,0.76,0.759528986
+22:15.8,4140,याद होना,factive,Projection,77,0.77,0.76951087
+22:23.9,4140,मानना,non-factive,Projection,45,0.45,0.45009058
+22:32.2,4140,बताना,non-factive,Projection,90,0.9,0.899275362
+22:42.3,4140,पूछना,non-factive,Projection,26,0.26,0.260434783
+22:48.6,4140,पता चलना,factive,Projection,91,0.91,0.909257246
+22:55.6,4140,समझना,factive,Projection,50,0.5,0.5
+23:00.0,4140,सुनना,factive,Projection,89,0.89,0.889293478
+23:59.8,3611,मानना,non-factive,At-issueness,97,0.97,0.969148551
+24:37.9,3611,सोचना,non-factive,At-issueness,0,0,0.000905797
+24:51.7,3611,समझना,factive,At-issueness,0,0,0.000905797
+25:11.5,3611,सुनना,factive,At-issueness,100,1,0.999094203
+25:22.8,3611,जानना,factive,At-issueness,0,0,0.000905797
+25:53.8,3611,देखना,factive,At-issueness,0,0,0.000905797
+26:03.3,3611,बताना,non-factive,At-issueness,100,1,0.999094203
+26:18.9,3611,कहना,non-factive,At-issueness,0,0,0.000905797
+26:27.9,3611,लगना,non-factive,At-issueness,100,1,0.999094203
+26:35.9,3611,पूछना,non-factive,At-issueness,100,1,0.999094203
+26:44.0,3611,याद होना,factive,At-issueness,100,1,0.999094203
+26:50.6,3611,पता चलना,factive,At-issueness,100,1,0.999094203
+27:02.5,3611,मानना,non-factive,Projection,100,1,0.999094203
+27:23.9,3611,सोचना,non-factive,Projection,0,0,0.000905797
+27:39.2,3611,समझना,factive,Projection,0,0,0.000905797
+27:46.1,3611,सुनना,factive,Projection,1,0.01,0.010887681
+27:51.7,3611,जानना,factive,Projection,0,0,0.000905797
+27:57.1,3611,देखना,factive,Projection,0,0,0.000905797
+28:02.5,3611,बताना,non-factive,Projection,0,0,0.000905797
+28:10.6,3611,कहना,non-factive,Projection,0,0,0.000905797
+28:16.2,3611,लगना,non-factive,Projection,0,0,0.000905797
+28:23.2,3611,पूछना,non-factive,Projection,0,0,0.000905797
+28:32.5,3611,याद होना,factive,Projection,0,0,0.000905797
+28:37.8,3611,पता चलना,factive,Projection,0,0,0.000905797
+32:56.5,7268,सुनना,factive,Projection,0,0,0.000905797
+33:13.4,7268,लगना,non-factive,Projection,0,0,0.000905797
+33:26.6,7268,मानना,non-factive,Projection,0,0,0.000905797
+33:39.7,7268,समझना,factive,Projection,100,1,0.999094203
+33:47.9,7268,पता चलना,factive,Projection,100,1,0.999094203
+34:02.1,7268,पूछना,non-factive,Projection,100,1,0.999094203
+34:10.0,7268,बताना,non-factive,Projection,100,1,0.999094203
+34:18.3,7268,सोचना,non-factive,Projection,100,1,0.999094203
+34:25.4,7268,कहना,non-factive,Projection,100,1,0.999094203
+34:32.1,7268,जानना,factive,Projection,100,1,0.999094203
+34:52.0,7268,देखना,factive,Projection,0,0,0.000905797
+34:58.2,7268,याद होना,factive,Projection,100,1,0.999094203
+35:10.7,7268,सुनना,factive,At-issueness,99,0.99,0.989112319
+35:30.7,7268,लगना,non-factive,At-issueness,100,1,0.999094203
+35:41.3,7268,मानना,non-factive,At-issueness,100,1,0.999094203
+35:46.4,7268,समझना,factive,At-issueness,99,0.99,0.989112319
+35:51.6,7268,पता चलना,factive,At-issueness,100,1,0.999094203
+35:56.2,7268,पूछना,non-factive,At-issueness,100,1,0.999094203
+36:01.2,7268,बताना,non-factive,At-issueness,100,1,0.999094203
+36:09.4,7268,सोचना,non-factive,At-issueness,0,0,0.000905797
+36:22.0,7268,कहना,non-factive,At-issueness,55,0.55,0.54990942
+36:25.7,7268,जानना,factive,At-issueness,66,0.66,0.659710145
+36:31.7,7268,देखना,factive,At-issueness,98,0.98,0.979130435
+36:39.1,7268,याद होना,factive,At-issueness,6,0.06,0.060797101
+26:11.2,5723,बताना,non-factive,Projection,100,1,0.999094203
+27:03.7,5723,पूछना,non-factive,Projection,25,0.25,0.250452899
+27:29.5,5723,कहना,non-factive,Projection,0,0,0.000905797
+27:40.4,5723,समझना,factive,Projection,0,0,0.000905797
+28:07.6,5723,याद होना,factive,Projection,100,1,0.999094203
+28:22.6,5723,सोचना,non-factive,Projection,0,0,0.000905797
+28:29.6,5723,पता चलना,factive,Projection,100,1,0.999094203
+28:54.6,5723,लगना,non-factive,Projection,0,0,0.000905797
+29:07.1,5723,देखना,factive,Projection,100,1,0.999094203
+29:22.8,5723,मानना,non-factive,Projection,0,0,0.000905797
+29:29.6,5723,जानना,factive,Projection,100,1,0.999094203
+29:39.5,5723,सुनना,factive,Projection,0,0,0.000905797
+29:58.7,5723,बताना,non-factive,At-issueness,0,0,0.000905797
+30:07.1,5723,पूछना,non-factive,At-issueness,0,0,0.000905797
+30:17.3,5723,कहना,non-factive,At-issueness,0,0,0.000905797
+30:31.8,5723,समझना,factive,At-issueness,0,0,0.000905797
+30:52.1,5723,याद होना,factive,At-issueness,100,1,0.999094203
+30:57.4,5723,सोचना,non-factive,At-issueness,0,0,0.000905797
+31:03.2,5723,पता चलना,factive,At-issueness,100,1,0.999094203
+31:09.5,5723,लगना,non-factive,At-issueness,0,0,0.000905797
+31:15.1,5723,देखना,factive,At-issueness,100,1,0.999094203
+31:24.5,5723,मानना,non-factive,At-issueness,0,0,0.000905797
+31:29.3,5723,जानना,factive,At-issueness,100,1,0.999094203
+31:35.0,5723,सुनना,factive,At-issueness,100,1,0.999094203
+29:30.5,1296,पूछना,non-factive,Projection,23,0.23,0.23048913
+30:51.7,1296,पता चलना,factive,Projection,18,0.18,0.18057971
+31:45.1,1296,सुनना,factive,Projection,50,0.5,0.5
+31:56.9,1296,मानना,non-factive,Projection,100,1,0.999094203
+32:05.6,1296,सोचना,non-factive,Projection,0,0,0.000905797
+32:11.4,1296,समझना,factive,Projection,5,0.05,0.050815217
+32:23.5,1296,जानना,factive,Projection,100,1,0.999094203
+32:28.9,1296,बताना,non-factive,Projection,100,1,0.999094203
+32:36.5,1296,देखना,factive,Projection,100,1,0.999094203
+32:44.8,1296,कहना,non-factive,Projection,100,1,0.999094203
+32:50.6,1296,याद होना,factive,Projection,96,0.96,0.959166667
+32:58.6,1296,लगना,non-factive,Projection,13,0.13,0.13067029
+33:08.4,1296,पूछना,non-factive,At-issueness,100,1,0.999094203
+33:17.9,1296,पता चलना,factive,At-issueness,90,0.9,0.899275362
+33:38.2,1296,सुनना,factive,At-issueness,89,0.89,0.889293478
+33:46.3,1296,मानना,non-factive,At-issueness,95,0.95,0.949184783
+33:53.8,1296,सोचना,non-factive,At-issueness,100,1,0.999094203
+33:58.5,1296,समझना,factive,At-issueness,100,1,0.999094203
+34:01.8,1296,जानना,factive,At-issueness,100,1,0.999094203
+34:08.7,1296,बताना,non-factive,At-issueness,97,0.97,0.969148551
+34:13.6,1296,देखना,factive,At-issueness,2,0.02,0.020869565
+34:18.8,1296,कहना,non-factive,At-issueness,91,0.91,0.909257246
+34:22.3,1296,याद होना,factive,At-issueness,100,1,0.999094203
+34:25.3,1296,लगना,non-factive,At-issueness,100,1,0.999094203
+54:11.8,9455,सुनना,factive,At-issueness,100,1,0.999094203
+54:52.6,9455,समझना,factive,At-issueness,0,0,0.000905797
+55:07.7,9455,लगना,non-factive,At-issueness,0,0,0.000905797
+55:29.9,9455,जानना,factive,At-issueness,0,0,0.000905797
+56:04.6,9455,पता चलना,factive,At-issueness,100,1,0.999094203
+56:16.9,9455,कहना,non-factive,At-issueness,99,0.99,0.989112319
+56:25.0,9455,मानना,non-factive,At-issueness,100,1,0.999094203
+56:39.1,9455,पूछना,non-factive,At-issueness,100,1,0.999094203
+56:55.5,9455,याद होना,factive,At-issueness,100,1,0.999094203
+57:11.0,9455,देखना,factive,At-issueness,100,1,0.999094203
+57:18.0,9455,सोचना,non-factive,At-issueness,0,0,0.000905797
+57:26.6,9455,बताना,non-factive,At-issueness,100,1,0.999094203
+57:42.6,9455,सुनना,factive,Projection,100,1,0.999094203
+57:55.2,9455,समझना,factive,Projection,0,0,0.000905797
+58:05.4,9455,लगना,non-factive,Projection,100,1,0.999094203
+58:14.2,9455,जानना,factive,Projection,100,1,0.999094203
+58:42.4,9455,पता चलना,factive,Projection,100,1,0.999094203
+59:00.6,9455,कहना,non-factive,Projection,0,0,0.000905797
+59:07.5,9455,मानना,non-factive,Projection,100,1,0.999094203
+59:30.0,9455,पूछना,non-factive,Projection,100,1,0.999094203
+59:40.0,9455,याद होना,factive,Projection,100,1,0.999094203
+59:46.7,9455,देखना,factive,Projection,100,1,0.999094203
+59:53.9,9455,सोचना,non-factive,Projection,0,0,0.000905797
+59:59.5,9455,बताना,non-factive,Projection,100,1,0.999094203
+20:51.0,3156,याद होना,factive,At-issueness,0,0,0.000905797
+21:04.8,3156,सुनना,factive,At-issueness,0,0,0.000905797
+21:14.0,3156,सोचना,non-factive,At-issueness,7,0.07,0.070778986
+21:20.1,3156,समझना,factive,At-issueness,3,0.03,0.030851449
+21:27.1,3156,मानना,non-factive,At-issueness,3,0.03,0.030851449
+21:35.4,3156,लगना,non-factive,At-issueness,3,0.03,0.030851449
+21:41.8,3156,देखना,factive,At-issueness,0,0,0.000905797
+21:45.7,3156,बताना,non-factive,At-issueness,0,0,0.000905797
+21:51.9,3156,पता चलना,factive,At-issueness,0,0,0.000905797
+22:11.7,3156,कहना,non-factive,At-issueness,0,0,0.000905797
+22:14.9,3156,पूछना,non-factive,At-issueness,0,0,0.000905797
+22:19.3,3156,जानना,factive,At-issueness,0,0,0.000905797
+22:38.4,3156,याद होना,factive,Projection,100,1,0.999094203
+22:47.5,3156,सुनना,factive,Projection,100,1,0.999094203
+22:55.4,3156,सोचना,non-factive,Projection,19,0.19,0.190561594
+23:13.9,3156,समझना,factive,Projection,4,0.04,0.040833333
+23:16.6,3156,मानना,non-factive,Projection,0,0,0.000905797
+23:24.2,3156,लगना,non-factive,Projection,0,0,0.000905797
+23:26.9,3156,देखना,factive,Projection,0,0,0.000905797
+23:30.8,3156,बताना,non-factive,Projection,0,0,0.000905797
+23:34.2,3156,पता चलना,factive,Projection,0,0,0.000905797
+23:42.2,3156,कहना,non-factive,Projection,1,0.01,0.010887681
+23:44.9,3156,पूछना,non-factive,Projection,0,0,0.000905797
+23:47.7,3156,जानना,factive,Projection,0,0,0.000905797
+00:00.2,7632,लगना,non-factive,At-issueness,100,1,0.999094203
+00:32.2,7632,देखना,factive,At-issueness,100,1,0.999094203
+00:42.9,7632,बताना,non-factive,At-issueness,78,0.78,0.779492754
+00:51.5,7632,मानना,non-factive,At-issueness,100,1,0.999094203
+01:17.9,7632,कहना,non-factive,At-issueness,100,1,0.999094203
+01:28.5,7632,पता चलना,factive,At-issueness,100,1,0.999094203
+01:32.9,7632,समझना,factive,At-issueness,100,1,0.999094203
+01:35.6,7632,सुनना,factive,At-issueness,100,1,0.999094203
+01:40.5,7632,पूछना,non-factive,At-issueness,100,1,0.999094203
+01:43.7,7632,सोचना,non-factive,At-issueness,100,1,0.999094203
+01:46.6,7632,जानना,factive,At-issueness,100,1,0.999094203
+01:52.7,7632,याद होना,factive,At-issueness,100,1,0.999094203
+01:56.2,7632,लगना,non-factive,Projection,100,1,0.999094203
+02:06.3,7632,देखना,factive,Projection,83,0.83,0.829402174
+02:11.4,7632,बताना,non-factive,Projection,100,1,0.999094203
+02:25.6,7632,मानना,non-factive,Projection,76,0.76,0.759528986
+02:34.4,7632,कहना,non-factive,Projection,100,1,0.999094203
+02:48.8,7632,पता चलना,factive,Projection,50,0.5,0.5
+03:00.7,7632,समझना,factive,Projection,62,0.62,0.619782609
+03:03.2,7632,सुनना,factive,Projection,69,0.69,0.689655797
+03:05.6,7632,पूछना,non-factive,Projection,83,0.83,0.829402174
+03:08.1,7632,सोचना,non-factive,Projection,73,0.73,0.729583333
+03:10.9,7632,जानना,factive,Projection,72,0.72,0.719601449
+03:14.0,7632,याद होना,factive,Projection,74,0.74,0.739565217
+17:19.0,9139,पूछना,non-factive,At-issueness,0,0,0.000905797
+18:21.6,9139,समझना,factive,At-issueness,0,0,0.000905797
+18:43.5,9139,लगना,non-factive,At-issueness,0,0,0.000905797
+18:53.7,9139,बताना,non-factive,At-issueness,0,0,0.000905797
+19:02.0,9139,कहना,non-factive,At-issueness,0,0,0.000905797
+19:11.4,9139,सुनना,factive,At-issueness,0,0,0.000905797
+19:17.1,9139,जानना,factive,At-issueness,0,0,0.000905797
+19:29.6,9139,पता चलना,factive,At-issueness,0,0,0.000905797
+19:37.0,9139,सोचना,non-factive,At-issueness,0,0,0.000905797
+19:49.2,9139,मानना,non-factive,At-issueness,0,0,0.000905797
+19:58.1,9139,याद होना,factive,At-issueness,0,0,0.000905797
+20:08.3,9139,देखना,factive,At-issueness,0,0,0.000905797
+20:23.9,9139,पूछना,non-factive,Projection,0,0,0.000905797
+20:36.7,9139,समझना,factive,Projection,0,0,0.000905797
+20:47.2,9139,लगना,non-factive,Projection,0,0,0.000905797
+21:05.9,9139,बताना,non-factive,Projection,100,1,0.999094203
+21:15.0,9139,कहना,non-factive,Projection,100,1,0.999094203
+21:32.8,9139,सुनना,factive,Projection,100,1,0.999094203
+21:42.1,9139,जानना,factive,Projection,100,1,0.999094203
+21:49.1,9139,पता चलना,factive,Projection,100,1,0.999094203
+22:10.0,9139,सोचना,non-factive,Projection,35,0.35,0.350271739
+22:21.1,9139,मानना,non-factive,Projection,100,1,0.999094203
+22:33.9,9139,याद होना,factive,Projection,100,1,0.999094203
+22:44.0,9139,देखना,factive,Projection,100,1,0.999094203
+30:11.2,7552,पूछना,non-factive,At-issueness,13,0.13,0.13067029
+30:29.2,7552,कहना,non-factive,At-issueness,24,0.24,0.240471014
+30:42.0,7552,मानना,non-factive,At-issueness,13,0.13,0.13067029
+30:54.1,7552,समझना,factive,At-issueness,15,0.15,0.150634058
+31:00.6,7552,देखना,factive,At-issueness,16,0.16,0.160615942
+31:05.6,7552,याद होना,factive,At-issueness,15,0.15,0.150634058
+31:12.0,7552,जानना,factive,At-issueness,15,0.15,0.150634058
+31:20.6,7552,पता चलना,factive,At-issueness,11,0.11,0.110706522
+31:27.3,7552,लगना,non-factive,At-issueness,10,0.1,0.100724638
+31:28.6,7552,बताना,non-factive,At-issueness,50,0.5,0.5
+31:36.6,7552,सुनना,factive,At-issueness,9,0.09,0.090742754
+31:42.5,7552,सोचना,non-factive,At-issueness,10,0.1,0.100724638
+31:57.9,7552,पूछना,non-factive,Projection,74,0.74,0.739565217
+32:08.6,7552,कहना,non-factive,Projection,73,0.73,0.729583333
+32:13.2,7552,मानना,non-factive,Projection,77,0.77,0.76951087
+32:16.3,7552,समझना,factive,Projection,80,0.8,0.799456522
+32:20.1,7552,देखना,factive,Projection,67,0.67,0.669692029
+32:23.7,7552,याद होना,factive,Projection,72,0.72,0.719601449
+32:26.7,7552,जानना,factive,Projection,66,0.66,0.659710145
+32:30.1,7552,पता चलना,factive,Projection,81,0.81,0.809438406
+32:33.4,7552,लगना,non-factive,Projection,75,0.75,0.749547101
+32:36.4,7552,बताना,non-factive,Projection,76,0.76,0.759528986
+32:39.6,7552,सुनना,factive,Projection,78,0.78,0.779492754
+32:42.8,7552,सोचना,non-factive,Projection,74,0.74,0.739565217
+32:10.5,7432,पता चलना,factive,Projection,0,0,0.000905797
+32:24.3,7432,बताना,non-factive,Projection,100,1,0.999094203
+32:37.2,7432,याद होना,factive,Projection,100,1,0.999094203
+32:44.3,7432,मानना,non-factive,Projection,100,1,0.999094203
+33:04.5,7432,कहना,non-factive,Projection,100,1,0.999094203
+33:12.4,7432,सोचना,non-factive,Projection,0,0,0.000905797
+33:19.8,7432,लगना,non-factive,Projection,50,0.5,0.5
+33:28.8,7432,समझना,factive,Projection,27,0.27,0.270416667
+33:37.1,7432,देखना,factive,Projection,47,0.47,0.470054348
+33:50.0,7432,जानना,factive,Projection,100,1,0.999094203
+34:00.7,7432,सुनना,factive,Projection,100,1,0.999094203
+34:12.8,7432,पूछना,non-factive,Projection,50,0.5,0.5
+34:26.9,7432,पता चलना,factive,At-issueness,100,1,0.999094203
+34:33.3,7432,बताना,non-factive,At-issueness,100,1,0.999094203
+34:48.3,7432,याद होना,factive,At-issueness,36,0.36,0.360253623
+34:57.0,7432,मानना,non-factive,At-issueness,70,0.7,0.699637681
+35:04.5,7432,कहना,non-factive,At-issueness,100,1,0.999094203
+35:17.5,7432,सोचना,non-factive,At-issueness,32,0.32,0.320326087
+35:25.2,7432,लगना,non-factive,At-issueness,50,0.5,0.5
+35:40.4,7432,समझना,factive,At-issueness,68,0.68,0.679673913
+35:47.3,7432,देखना,factive,At-issueness,56,0.56,0.559891304
+35:53.5,7432,जानना,factive,At-issueness,59,0.59,0.589836957
+36:01.4,7432,सुनना,factive,At-issueness,62,0.62,0.619782609
+36:06.6,7432,पूछना,non-factive,At-issueness,100,1,0.999094203
