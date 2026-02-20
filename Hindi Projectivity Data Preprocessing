@@ -1,0 +1,49 @@
+import pandas as pd
+import numpy as np
+import os
+
+INPUT_FILE = '/content/Hindi_Experiment_Data.xlsx' 
+OUTPUT_FILE = 'Hindi_Transformed_Data_Final.xlsx'
+
+def process_hindi_experiment(input_path, output_path):
+    if not os.path.exists(input_path):
+        print(f"❌ Error: {input_path} not found.")
+        return
+
+    print(f"Reading file: {input_path}...")
+
+    # 1. LOAD DATA
+    if input_path.endswith('.csv'):
+        try:
+            df = pd.read_csv(input_path, encoding='utf-8')
+        except UnicodeDecodeError:
+            df = pd.read_csv(input_path, encoding='latin1')
+    else:
+        
+        df = pd.read_excel(input_path)
+
+    # 2. FILTERING: Keep only complete sessions (12 rows per block)
+    session_groups = ['Participant_ID', 'Task_Block']
+    counts = df.groupby(session_groups).size().reset_index(name='Row_Count')
+    valid_sessions = counts[counts['Row_Count'] == 12]
+
+    df_filtered = pd.merge(df, valid_sessions[session_groups], on=session_groups, how='inner')
+    
+    # 3. TRANSFORMATIONS
+    df_filtered['Rating_Normalized'] = df_filtered['Rating'] / 100.0
+    N = len(df_filtered)
+    df_filtered['Rating_Beta'] = (df_filtered['Rating_Normalized'] * (N - 1) + 0.5) / N
+
+    # 4. FORMATTING
+    target_cols = ['Timestamp', 'Participant_ID', 'Verb', 'Verb_Type', 
+                   'Task_Block', 'Rating', 'Rating_Normalized', 'Rating_Beta']
+    final_df = df_filtered[[col for col in target_cols if col in df_filtered.columns]]
+
+    # 5. OUTPUT AS EXCEL
+    
+    final_df.to_excel(output_path, index=False)
+    
+    print(f"✅ Success! Excel file saved as: {output_path}")
+
+if __name__ == "__main__":
+    process_hindi_experiment(INPUT_FILE, OUTPUT_FILE)
