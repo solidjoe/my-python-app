@@ -1,0 +1,14 @@
+                                                                                                                    
+  Progress                    Draws   Divergences   Step size   Grad evals   Sampling Speed   Elapsed   Remaining  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  ━━━━━━━━━━━━━━━━━━━━━━━━━   3000    0             0.224       15           196.55 draws/s   0:00:15   0:00:00    
+  ━━━━━━━━━━━━━━━━━━━━━━━━━   3000    0             0.256       15           96.43 draws/s    0:00:31   0:00:00    
+                                                                                                                   
+
+
+--- Bayesian Model Summary ---
+               mean     sd  hdi_3%  hdi_97%  mcse_mean  mcse_sd  ess_bulk  \
+At_issueness  0.457  0.245  -0.026    0.891      0.004    0.003    3952.0   
+
+              ess_tail  r_hat  
+At_issueness    2949.0    1.0  
